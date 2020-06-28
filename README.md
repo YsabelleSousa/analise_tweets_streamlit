@@ -23,4 +23,4 @@ Para rodar a aplicação basta rodar o seguinte comando no seu terminal:
 
 `streamlit run main.py`   
 
-Então ela abrirá automaticamente em seu navegador.    
+Então, ela abrirá automaticamente em seu navegador.    
